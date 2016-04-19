@@ -1,3 +1,7 @@
+# v3
+
+* added pullup resistors for GPIO0 & CH_PD
+
 # v2
 
 * silkscreen of 4&5 changed
